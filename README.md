@@ -10,3 +10,6 @@ A responsive hospital and healthcare website built with HTML, CSS, and JavaScrip
 ### How to Run
 1. Download or clone this repo.
 2. Open `index.html` in your browser or use VS Code Live Server.
+
+![MediNest Preview](t.png)
+
